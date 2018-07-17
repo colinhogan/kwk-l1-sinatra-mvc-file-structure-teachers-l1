@@ -9,4 +9,8 @@ def initialize(name, breed, age)
   @how_many_dogs+=1 
 end 
   
+def all 
+  all = []  
+end 
+
 end 
