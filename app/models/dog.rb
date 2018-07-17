@@ -16,3 +16,7 @@ class Dog
   end 
 
 end 
+
+rudy = Dog.new("Rudy", "mutt", 3)
+puts Dog.all
+puts Dog.all.count
