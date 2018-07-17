@@ -15,9 +15,7 @@ class Dog
     puts @@all_dogs  
   end 
   
-  def self.count
-    puts @@how_many_dogs
-  end 
+
     
 
 end 
