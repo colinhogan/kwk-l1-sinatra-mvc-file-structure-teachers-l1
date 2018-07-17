@@ -15,8 +15,5 @@ class Dog
     puts @@all_dogs  
   end 
   
-
-    
-
 end 
 
