@@ -12,7 +12,7 @@ class Dog
   end 
     
   def all 
-    puts all_dogs  
+    puts @@all_dogs  
   end 
 
 end 
