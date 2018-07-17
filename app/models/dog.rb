@@ -18,5 +18,6 @@ class Dog
 end 
 
 rudy = Dog.new("Rudy", "mutt", 1)
+buddy = Dog.new("Buddy", "golden", 1)
 puts rudy 
 Dog.all 
