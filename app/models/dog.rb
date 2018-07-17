@@ -11,7 +11,7 @@ class Dog
     @@all_dogs<<@name 
   end 
     
-  def all 
+  def self.all 
     puts @@all_dogs  
   end 
 
